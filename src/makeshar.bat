@@ -1,9 +1,0 @@
-copy crobots.exe a:
-copy crobots.doc a: 
-copy cr-read.me  a:
-copy cr-print.bat a:
-copy cr-demo.bat  a:
-copy target.r     a:
-copy rook.r       a:
-copy counter.r    a:
-copy sniper.r     a:
