@@ -1,0 +1,12 @@
+//
+// Created by cx02087 on 15/04/18.
+//
+
+#ifndef CROBOTS_MAIN_H
+#define CROBOTS_MAIN_H
+
+#define crobots_VERSION_MAJOR @crobots_VERSION_MAJOR
+#define crobots_VERSION_MINOR @crobots_VERSION_MINOR
+
+
+#endif //CROBOTS_MAIN_H
